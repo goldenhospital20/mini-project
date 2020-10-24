@@ -1,0 +1,113 @@
+.img-logo img{
+    width: 20%;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-evenly;
+}
+
+.logo-name{
+    padding: 0% 10% 0% 0%;
+}
+.img{
+    background-image: url("image/H11.jpg");
+    background-size: cover;
+}
+
+
+/* **********foter********** */
+.footer{
+    background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+    font-size: 2em;;
+    justify-content: space-between;
+    padding: 0% 10% 0% 10%;
+}
+.social{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+
+
+.navi ul li{
+    list-style-type: none;
+    
+}
+.navi ul li a {
+    text-decoration: none;
+    
+}
+
+.info{
+    margin: 2% 0% 0% 30%;
+    color: rgb(202, 26, 26);
+    //background-color: deepskyblue;
+}
+
+.img-home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   padding-top: 10%;
+}
+.infor{
+    padding: 10% 0% 0% 1%;
+    color: rgb(179, 23, 23);
+    //background-color: deepskyblue;
+}
+.img-1 img{
+    width:70%;
+}
+.carousel-item img{
+
+    width: 80%;
+    
+    
+}
+
+.img-main{
+    padding: 0% 10% 0% 20%;
+}
+.img-2 img{
+    width: 250%;
+    padding: 10% 10% 10% 10%;
+ 
+}
+.inform{
+    padding: 10% 0% 0% 1%;
+    color: rgb(202, 19, 59);
+   // background-color: deepskyblue;
+margin-left: 40%;
+}
+.img-main1 img{
+    width: 200%;
+    padding: 0% 20% 10% 10%;
+ 
+}
+.infory{
+    padding: 0% 10% 0% 20%;
+    color: rgb(192, 21, 21);
+   // background-color: deepskyblue;
+margin-left: 10%;
+}
+.img-3 img{
+    width: 100%;
+    padding: 10% 10% 10% 10%;
+ 
+}
+.infore{
+    padding: 10% 0% 0% 1%;
+    color: rgb(202, 19, 59);
+   // background-color: deepskyblue;
+margin-left: 0%;
+}
+.img-5 img{
+    width: 110%;
+    padding: 10% 10% 10% 10%;
+ 
+}
+

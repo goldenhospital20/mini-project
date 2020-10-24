@@ -1,0 +1,69 @@
+.img-logo img{
+    width: 10%;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-evenly;
+}
+
+.logo-name{
+    padding: 0% 20% 0% 0%;
+}
+.img{
+    background-image: url("image/H11.jpg");
+    background-size: cover;
+}
+
+
+/* **********foter********** */
+.footer{
+    background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+    font-size: 2em;;
+    justify-content: space-between;
+    padding: 0% 10% 0% 10%;
+}
+.social{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+
+
+.navi ul li{
+    list-style-type: none;
+    
+}
+.navi ul li a {
+    text-decoration: none;
+    
+}
+
+.info{
+    margin: 0% 0% 0% 20%;
+}
+
+.img-home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   padding-top: 2%;
+}
+.infor{
+    padding: 0% 0% 0% 0%;
+}
+.img-1 img{
+    width:20%;
+}
+.carousel-item img{
+
+    width: 50%;
+    
+}
+
+.img-main{
+    padding: 0% 10% 0% 20%;
+}
